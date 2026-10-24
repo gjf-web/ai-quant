@@ -10,3 +10,10 @@ __pycache__/
 work/
 data/
 d2l-en/
+
+# Obsidian 本地工作区状态（每次打开都会变，不应提交）
+ob_ai_quant/.obsidian/workspace.json
+ob_ai_quant/.obsidian/workspace-mobile.json
+
+# Obsidian 第三方主题（体积大，可重新下载）
+ob_ai_quant/.obsidian/themes/
